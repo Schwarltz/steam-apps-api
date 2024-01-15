@@ -1,0 +1,3 @@
+interface httpRequest {
+    name: string
+}
